@@ -1,6 +1,6 @@
 ### Hi there 👋
   I’m Diego Paccotaype, a FullStack developer, looking for new adventures
-  ### FullStack Dev.
+  ## FullStack Dev.
 
 <!--
 **DiegoPaccoPE/DiegoPaccoPE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
