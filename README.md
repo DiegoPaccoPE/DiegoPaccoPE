@@ -1,7 +1,5 @@
 ### Hi there 👋
-
   I’m Diego Paccotaype, a FullStack developer, looking for new adventures
-    
   ### FullStack Dev.
 
 <!--
